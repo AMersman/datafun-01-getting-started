@@ -1,1 +1,4 @@
 # Paste the output from a sample run here.
+Pick a movie from the following. Iron Man, Captain American, ThorThor
+Thor stars Chris Hemsworth and made $449 Million at the Box Office
+The profit range was 449 to 714 million dollars.
